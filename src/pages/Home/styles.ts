@@ -5,7 +5,9 @@ export const Wrapper = styled.SafeAreaView`
   background-color: #000;
 `;
 
-export const Container = styled.ScrollView``;
+export const Container = styled.ScrollView.attrs(() => ({
+  showsVerticalScrollIndicator: false,
+}))``;
 
 export const Header = styled.View`
   height: 60px;

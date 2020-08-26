@@ -1,5 +1,9 @@
 import React from 'react';
-import { Feather, MaterialCommunityIcons, AntDesign } from '@expo/vector-icons';
+import {
+  Feather,
+  MaterialCommunityIcons,
+  AntDesign
+} from '@expo/vector-icons';
 
 import { 
   Container,

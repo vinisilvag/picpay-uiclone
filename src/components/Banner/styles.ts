@@ -14,9 +14,7 @@ export const Details = styled.View`
   flex: 1;
 `;
 
-export const Image = styled.Image`
-
-`;
+export const Image = styled.Image``;
 
 export const Title = styled.Text`
   color: #fff;

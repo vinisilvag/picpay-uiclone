@@ -35,6 +35,7 @@ const icons = {
 const BottomTabs: React.FC = () => {
   return (
     <Tab.Navigator
+      initialRouteName="Home"
       screenOptions={({ route, navigation }) =>  ({
         tabBarIcon: ({ color, size, focused }) => {
           if(route.name === 'Pay') {

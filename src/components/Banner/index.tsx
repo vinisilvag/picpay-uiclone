@@ -1,6 +1,12 @@
 import React from 'react';
 
-import { Container, Details, Image, Title, Description } from './styles';
+import {
+  Container,
+  Details,
+  Image,
+  Title,
+  Description
+} from './styles';
 
 import img13 from '../../assets/images/13.png';
 

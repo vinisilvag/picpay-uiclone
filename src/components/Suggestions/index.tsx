@@ -1,6 +1,11 @@
 import React from 'react';
 
-import { Container, Option, Img, Label } from './styles';
+import {
+  Container,
+  Option,
+  Img,
+  Label
+} from './styles';
 
 import img1 from '../../assets/images/01.png';
 import img2 from '../../assets/images/02.png';
